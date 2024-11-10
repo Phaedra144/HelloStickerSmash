@@ -18,4 +18,11 @@ const styles = StyleSheet.create({
   text: {
     color: '#fff',
   },
+  button: {
+    marginTop: 16,
+    paddingVertical: 8,
+    paddingHorizontal: 16,
+    backgroundColor: '#5e0acc',
+    borderRadius: 4,
+  }
 });
